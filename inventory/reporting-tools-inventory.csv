@@ -1,0 +1,5 @@
+Tool,Unit,Entity,Owner,Users,Hosting,Status,Contact,Notes
+Qlik,Finance,Exim Bank Tanzania,To confirm,To confirm,To confirm,In use – under review,Kelvin R. Rugashumba,Examine Qlik use and if Power BI can replace it (Halfan I. Semindu with Kelvin R. Rugashumba)
+Robotics (name to confirm),Risk,Exim Bank Tanzania,To confirm,To confirm,To confirm,In use – under review,Colman S. Riwa,Target: robotics reads from the data warehouse
+Internal Audit analytics tool (name to confirm),Internal Audit,Exim Bank Tanzania,To confirm,To confirm,To confirm,To confirm,Salha A. Othman,Examine if Power BI and the data warehouse are sufficient
+Power BI,IT / Data,Exim Bank Tanzania,Gwamaka C. Mwamwaja,To confirm,To confirm,Target platform,Gwamaka C. Mwamwaja,Loan portfolio dashboard (uses fact_loan_portfolio_mpf) and channels performance dashboard; Loan Arrears EWI dashboard in test

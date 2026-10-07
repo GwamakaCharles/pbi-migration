@@ -1,0 +1,5 @@
+KPI,Definition,Formula,Grain,Source mart,Certified semantic model / measure,Owner,Refresh,Used in reports,Status,Agreed date,Notes
+Loan portfolio balance,To agree,To agree,Per loan per day,fact_loan_daily_balance; fact_loan_portfolio_mpf,Loans & Risk / to confirm,To confirm,Daily,Loan portfolio dashboard,Draft,,Example row
+Loans in arrears (EWI),To agree,To agree,Per loan per day,Loan Arrears EWI mart (in test),Loans & Risk / to confirm,To confirm (Risk),Daily,Loan Arrears EWI dashboard,Draft,,Example row
+Active channel users,To agree,To agree,Per customer per channel per day,fact_customer_channel_usage,Customers & Channels / to confirm,To confirm,Daily,Channels performance dashboard,Draft,,Example row
+Trial balance by GL account,To agree,To agree,Per GL account per day,ATOZ TB mart (in test),Finance / to confirm,To confirm (Finance),Daily,To confirm,Draft,,Example row
